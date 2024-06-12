@@ -1,6 +1,4 @@
-# Hi there, I'm Houssem 👋
-
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+my+GitHub+Profile!)
+# Hi there, I'm Houssam 👋
 
 I'm an enthusiastic Machine Learning Engineer with a keen interest in Deep Learning (DL), Natural Language Processing (NLP), and Computer Vision (CV). My passion lies in building innovative solutions and collaborating on exciting projects in these fields.
 
@@ -17,7 +15,7 @@ I'm an enthusiastic Machine Learning Engineer with a keen interest in Deep Learn
 - **Natural Language Processing**: ASR, emotion detection, text generation, and sentiment analysis.
 - **Computer Vision**: Object detection, image segmentation, and computer vision applications.
 
-## Projects
+## Current Project
 ### 🎧 [AlgerianSpeech platform](https://www.algerianspeech.com/about)
 This project is dedicated to advancing the field of speech recognition, particularly for code-switching in the Algerian dialect, French, and English. By developing a sophisticated speech annotation tool, we aim to assist researchers and developers in capturing and analyzing the unique linguistic nuances of the Algerian context. Our team has meticulously assembled a diverse dataset from real-world YouTube recordings, reflecting spontaneous speech patterns and real-life communication dynamics. This tool not only facilitates precise transcription and annotation but also contributes significantly to the broader field of multilingual and code-switched speech recognition, offering invaluable resources for developing robust ASR systems.
 several ASR pipelines and visualizing their performance metrics (MER, CER) to improve the accuracy of speech recognition models.
