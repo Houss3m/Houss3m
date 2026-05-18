@@ -122,7 +122,7 @@ Feel free to explore my repositories and reach out if you are interested in Arab
 
 ## GitHub
 
-![Profile Views](https://komarev.com/ghpvc/?username=Houss3m&style=flat-square)
+![GitHub Streak](https://streak-stats.demolab.com?user=Houss3m&theme=radical)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Houss3m-181717?style=for-the-badge&logo=github)](https://github.com/Houss3m)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Houssem%20Lachemat-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/houssem-lachemat)
