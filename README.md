@@ -120,4 +120,4 @@ I am open to collaboration on projects related to:
 
 Feel free to explore my repositories and reach out if you are interested in Arabic ASR, speech AI, or robust multilingual speech technologies.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Houss3m&show_icons=true&theme=radical)
+![Houssam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Houss3m&show_icons=true&theme=radical&cache_seconds=86400)
