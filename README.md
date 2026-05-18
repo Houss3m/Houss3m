@@ -115,8 +115,8 @@ I am open to collaboration on projects related to:
   <a href="https://github.com/Houss3m">
     <img src="https://img.shields.io/badge/GitHub-Houss3m-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/houssem-lachemat">
-    <img src="https://img.shields.io/badge/LinkedIn-Houssem%20Lachemat-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/hsmlmt">
+    <img src="https://img.shields.io/badge/LinkedIn-Houssem%20E%20Lachemat-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
