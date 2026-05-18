@@ -111,22 +111,19 @@ I am open to collaboration on projects related to:
 ---
 
 ## Contact Me
-[![GitHub](https://img.shields.io/badge/GitHub-Houss3m-181717?style=for-the-badge&logo=github)](https://github.com/Houss3m)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Houssem%20Lachemat-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/houssem-lachemat)
-
+<p align="center">
+  <a href="https://github.com/Houss3m">
+    <img src="https://img.shields.io/badge/GitHub-Houss3m-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/houssem-lachemat">
+    <img src="https://img.shields.io/badge/LinkedIn-Houssem%20Lachemat-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
-
-Feel free to explore my repositories and reach out if you are interested in Arabic ASR, speech AI, or robust multilingual speech technologies.
-
-## GitHub
 
 ## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Houss3m&theme=radical" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houss3m&layout=compact&theme=radical" alt="Top languages" />
 </p>
